@@ -1,0 +1,60 @@
+{
+  "donor_commit": "94bcc2ae457e80c9d57787e1fa0c32de54ed63e8",
+  "donor_apk": {
+    "path": "system/priv-app/MiuiCamera/MiuiCamera.apk",
+    "sha256": "869466457003df2918cfb17b20e098d6537502cd68f03b7820480a4d5d481001"
+  },
+  "donor_jni": {
+    "path": "system/priv-app/MiuiCamera/lib/arm64/libcamera_algoup_jni.xiaomi.so",
+    "sha256": "bb295de5dcf4c5bd9dab38ba7b84ce120ceeb3d9b637dc54a7d6c887524b0c6c"
+  },
+  "dex": {
+    "classes.dex": "bd0ff707526cae5367af4e903fade3690af99756a6a848160f63e666f60dacb9",
+    "classes2.dex": "e08e037aeca9caef968a5b1d6f7f1eb62ca52e9a6098b4d43e9977f3c68f3f28",
+    "classes7.dex": "c3451457ebe0a0821f7bda8d7e204d62ae1e0ff2d2698d09371002aea125cd84"
+  },
+  "device_libraries": {
+    "android.hardware.common-V2-cpp.so": "0f993e90ae4d839e40d450845bcfe88acc73e7a609fe1fd17792b57b49585fe8",
+    "android.hardware.common-V2-ndk.so": "9cecced168d7781f716aa3e1fde3a796d4f73c7f987084cd088b9949981891ef",
+    "android.hardware.common.fmq-V1-cpp.so": "0e107c9f9c07ad7f35f5465a12ec8c60a932b181b771c5410f37d4d0dbad1a01",
+    "android.hardware.graphics.allocator-V2-ndk.so": "4e13732e97e48b600da191c69d2712b58cb9efbfce34a79c85817ec5e228d45f",
+    "android.hardware.graphics.allocator@2.0.so": "9aa13b4da720697be73c7c8028dcfa10175901a492e612dc7c5d9bb7ff367d9e",
+    "android.hardware.graphics.allocator@3.0.so": "0f5b8aa4c3d84e9646dcb512de5043c6c028c8597e240c50d63cbfddf0eda5d4",
+    "android.hardware.graphics.allocator@4.0.so": "705c382f898e24caa90b450d60e4d2ea5d8938e75618811fa927c038754777a7",
+    "android.hardware.graphics.bufferqueue@1.0.so": "bf8e054c9b2dab34d89d5e2ca586d2b850e5ccef70b67879c93d1bb05a417fd3",
+    "android.hardware.graphics.bufferqueue@2.0.so": "43b732b633ea07f684756622c6ac23fb08afe0e03c2fc49368ea1a242839741d",
+    "android.hardware.graphics.common-V7-ndk.so": "9af8fceb0755412d2bfa35caa6e00954b8c88cc8c303e2f5a067adf4e8aa72a0",
+    "android.hardware.graphics.common@1.0.so": "f1d5d37ece5fe787f3e39c8ebb6e110297591ab82b94af40d1778c40cc708627",
+    "android.hardware.graphics.common@1.1.so": "05fae52f7a58ad1e6201c0f5d5cf94800040e8aa778265766394486f76de2cdf",
+    "android.hardware.graphics.common@1.2.so": "20b4e7c92dbe298b7195753d20eb93f926cf3ac7c27528d770c644376f9889ff",
+    "android.hardware.graphics.mapper@2.0.so": "ba25728afa4d6cff7a1fb6a1514aa153fc1a3bcf58d6fec96b85b3974908ae26",
+    "android.hardware.graphics.mapper@2.1.so": "fa14e37e3c13070e224c575b5583de39f6f29c416477cd0699c326cbc87d1ea0",
+    "android.hardware.graphics.mapper@3.0.so": "c9f9632e9345efe2cf2c630f6f291861128336f66cc13d9abfa73faafef5a607",
+    "android.hardware.graphics.mapper@4.0.so": "f77d0abd6bdd61e13f8f2da3fed71db67bb40b563af5b1af64fb65d4fee834bf",
+    "android.hardware.media@1.0.so": "7f7df0da4aec513c176a1a80c18faf1d3c764c444f37027a2f16310b97cb135c",
+    "android.hidl.token@1.0-utils.so": "1c783403063288fd9b3a0f1042b759bdca0624b8a416e276038d7f8349c71b82",
+    "android.hidl.token@1.0.so": "c90a7e770ff1b6f9803a06ecaff9fea0c67d6117fb56ccce1e21685d5aca254f",
+    "camera_platform_flags_c_lib.so": "d19ff93def0b0925afe3663d589464bd9eac2a55c7c82d72837366a98cd7cf69",
+    "framework-permission-aidl-cpp.so": "05b42a075000d5d7d2a089ef996e5fa41eda38c08e0351e0345ab8c6b34d411b",
+    "ld-android.so": "43b3aa2856e82d88a6f223385ce9d7318a93274e9240fa2894845abb03f93b92",
+    "lib-camera-compatibility-info-api.so": "a709392ae831623e2347ffa52d7973ece1595443c7188647197f66c4c08fc0f2",
+    "lib-platform-compat-native-api.so": "c22c38dbd1b4d40ec30c64ad48b0e831c1f74af774417059fe3effe1fc4379a1",
+    "libaconfig_storage_read_api_cc.so": "e69deccf295e0c8a8c0f0ee936a551d8e919a927fd1397caab331fd04825717b",
+    "libapexsupport.so": "fe4ae96c5b5b02781dc2a785488aae8cd9033e7daba7cbadaffd7215e29e71f2",
+    "libbase.so": "d32279af8f0b6944dc9622ee3f6b4831da2b6bdb490e6e5450cf2ee7a8b5d455",
+    "libbinder.so": "acb7540035e0e7849fc807cef15e4a969b7e482f182740167ec93c4a58416436",
+    "libc++.so": "b3f9261acf0dc87a012eb19a1d632dab5a78a0991aa3c0ff7af351b28eb38953",
+    "libcamera_client.so": "b2f013578d7f7b2b52ca121c058a969bf2739e1b4f0dff9e573d9f2bdcb51e4c",
+    "libcamera_metadata.so": "1887c98cef769e299420f34ca5fe1f1614f2a47a44d75c0872cd986fb11524f6",
+    "libcameracompatbilityinfo.so": "f9239eb07181f4bfb3e20bfd2bf8b8c5336a76f2f9d66e8175ed84171cfef3b9",
+    "libcutils.so": "ad974b626a041e65c09433f7699470ae2bdcdeba0fbb03932dcde433185db572",
+    "libdl_android.so": "a80abd7789e3b2be493bc6e535af8933b61150aa8fcd403e17d404935c342cab",
+    "libgralloctypes.so": "01e85e4eaf5c938ac2f03f8acf7cabbaacc77a179ecf36e5a58a18202c282baa",
+    "libgui.so": "95a8e269d01e4e702e73108287edd70b660ab819b760a9d8c1ce19f9a87863a1",
+    "libhidlbase.so": "7f3b1b8e7e3fa20b7b210dd08b837102ace8455b459716b783e1e42281dc3724",
+    "libpermission.so": "2583f814bd8a056b36f18f97fa26cbc6af622e83ef1b0bdce5fc0b23a0dbb274",
+    "libui.so": "6ad2701bfe0ffe7fe4f75c2b0b9d9d9b6f2c6e14d490bf6c32dc47a55607d6a4",
+    "libutils.so": "7cc53e87064bf88f9365afdf3bfa71bd5c70eeeba6f65a7ef792d2d43c69e4dc",
+    "libvndksupport.so": "fbba11aeab4e776b0ebbfb14d931d2906736d6385036f31b9fb39c119a3b1cc4"
+  }
+}

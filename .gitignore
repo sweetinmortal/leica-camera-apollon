@@ -1,0 +1,11 @@
+__pycache__/
+/build/
+/device-libs/
+/vendor_MiuiLeicaCam/
+*.apk
+*.so
+*.dex
+*.idsig
+*.jks
+*.keystore
+*.log
